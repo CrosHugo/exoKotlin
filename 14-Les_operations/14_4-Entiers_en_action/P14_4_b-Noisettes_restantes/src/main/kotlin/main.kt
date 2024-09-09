@@ -1,3 +1,5 @@
 fun main() {
-    // put your code here
+    val s = 3
+    val k = 14
+    println(k%s)
 }
